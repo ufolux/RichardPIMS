@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.richardlu.richardpims.ShowDetails" >
+    
+    <item android:id="@+id/edit_acbtn"
+        android:title="修改"
+
+        android:icon="@drawable/edit60x60"
+        android:showAsAction="always|withText"/>
+
+
+</menu>
